@@ -1,3 +1,3 @@
-# mpx1
+# AdvBASIC
 
-This is just a future program witten in C.
+This is a project to bring some Plus/4 and C128 features to the C64.
